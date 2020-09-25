@@ -1,10 +1,18 @@
 import React from "react";
 import "./App.css";
+import Header from "./Header";
+import Sidebar from "./Sidebar";
+import Videos from "./RecommendedVideos";
 
 function App() {
   return (
     <div className="app">
-      <h1>Youtube - clone</h1>
+      <Header />
+
+      <div className="app__page">
+        <Sidebar />
+        <Videos />
+      </div>
     </div>
   );
 }
