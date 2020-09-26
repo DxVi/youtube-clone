@@ -13,7 +13,7 @@ function RecommendedVideos() {
           timestamp="3 days ago"
           channelImage="./nature1.jpg"
           channel="dixv Chann"
-          image="./img/video1.jpg"
+          image="./video1.jpg"
         />
         <VideoCard
           title="JavaScript Tutorial"
@@ -21,7 +21,7 @@ function RecommendedVideos() {
           timestamp="4 days ago"
           channelImage="./nature1.jpg"
           channel="dixv Chann"
-          image="./img/video2.jpg"
+          image="./video2.jpg"
         />
         <VideoCard
           title="Back to Basics"
@@ -29,7 +29,7 @@ function RecommendedVideos() {
           timestamp="6 days ago"
           channelImage="./nature1.jpg"
           channel="dixv Chann"
-          image="./img/video3.jpg"
+          image="./video3.jpg"
         />
         <VideoCard
           title="Python for Beginners"
@@ -37,7 +37,7 @@ function RecommendedVideos() {
           timestamp="1 week ago"
           channelImage="./nature1.jpg"
           channel="dixv Chann"
-          image="./img/video4.jpg"
+          image="./video4.jpg"
         />
         <VideoCard
           title="REACT Coaching Call"
@@ -45,7 +45,7 @@ function RecommendedVideos() {
           timestamp="2 weeks ago"
           channelImage="./nature1.jpg"
           channel="dixv Chann"
-          image="./img/video5.jpg"
+          image="./video5.jpg"
         />
         <VideoCard
           title="Instagram Clone"
@@ -53,7 +53,7 @@ function RecommendedVideos() {
           timestamp="3 weeks ago"
           channelImage="./nature1.jpg"
           channel="dixv Chann"
-          image="./img/video6.jpg"
+          image="./video6.jpg"
         />
         <VideoCard
           title="Javascript Full Course"
@@ -61,7 +61,7 @@ function RecommendedVideos() {
           timestamp="1 month ago"
           channelImage="./nature1.jpg"
           channel="dixv Chann"
-          image="./img/video7.jpg"
+          image="./video7.jpg"
         />
         <VideoCard
           title="Become a REACT Developer"
@@ -69,7 +69,7 @@ function RecommendedVideos() {
           timestamp="3 months ago"
           channelImage="./nature1.jpg"
           channel="dixv Chann"
-          image="./img/video8.jpg"
+          image="./video8.jpg"
         />
         <VideoCard
           title="Google and Microsoft Resume"
@@ -77,7 +77,7 @@ function RecommendedVideos() {
           timestamp="6 months ago"
           channelImage="./nature1.jpg"
           channel="dixv Chann"
-          image="./img/video9.jpg"
+          image="./video9.jpg"
         />
         <VideoCard
           title="$100K/yr Roadmap"
@@ -85,7 +85,7 @@ function RecommendedVideos() {
           timestamp="1 year ago"
           channelImage="./nature1.jpg"
           channel="dixv Chann"
-          image="./img/video10.jpg"
+          image="./video10.jpg"
         />
       </div>
     </div>
