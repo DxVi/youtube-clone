@@ -13,79 +13,79 @@ function RecommendedVideos() {
           timestamp="3 days ago"
           channelImage="./nature1.jpg"
           channel="dixv Chann"
-          image="./video1.jpg"
+          image="https://i.ytimg.com/vi/_irmrN0WbTw/hqdefault.jpg"
         />
         <VideoCard
-          title="JavaScript Tutorial"
+          title="Alter Ego"
           views="2m"
           timestamp="4 days ago"
           channelImage="./nature1.jpg"
           channel="dixv Chann"
-          image="./video2.jpg"
+          image="https://i.ytimg.com/vi/rD0RPo98S6U/hqdefault.jpg"
         />
         <VideoCard
-          title="Back to Basics"
+          title="javascript Tutorial"
           views="1.7m"
           timestamp="6 days ago"
           channelImage="./nature1.jpg"
           channel="dixv Chann"
-          image="./video3.jpg"
+          image="https://i.ytimg.com/vi/AzYsLGhfgok/hqdefault.jpg"
         />
         <VideoCard
-          title="Python for Beginners"
+          title="Back to Basics"
           views="3m"
           timestamp="1 week ago"
           channelImage="./nature1.jpg"
           channel="dixv Chann"
-          image="./video4.jpg"
+          image="https://i.ytimg.com/vi/5x3OY0OWWN4/hqdefault.jpg"
         />
         <VideoCard
-          title="REACT Coaching Call"
+          title="PYTHON for Beginners"
           views="2m"
           timestamp="2 weeks ago"
           channelImage="./nature1.jpg"
           channel="dixv Chann"
-          image="./video5.jpg"
+          image="https://i.ytimg.com/vi/piFSLM4jrkI/hqdefault.jpg"
         />
         <VideoCard
-          title="Instagram Clone"
+          title="REACT Coaching Call"
           views="1.3m"
           timestamp="3 weeks ago"
           channelImage="./nature1.jpg"
           channel="dixv Chann"
-          image="./video6.jpg"
+          image="https://i.ytimg.com/vi/9ba-Nx9oK0w/hqdefault.jpg"
         />
         <VideoCard
-          title="Javascript Full Course"
+          title="Make Money from Home"
           views="2.5m"
           timestamp="1 month ago"
           channelImage="./nature1.jpg"
           channel="dixv Chann"
-          image="./video7.jpg"
+          image="https://i.ytimg.com/vi/EUfl31gzjY8/hqdefault.jpg"
         />
         <VideoCard
-          title="Become a REACT Developer"
+          title="Dying Programming Languages"
           views="1.7m"
           timestamp="3 months ago"
           channelImage="./nature1.jpg"
           channel="dixv Chann"
-          image="./video8.jpg"
+          image="https://i.ytimg.com/vi/ysmkJrgrV1o/hqdefault.jpg"
         />
         <VideoCard
-          title="Google and Microsoft Resume"
+          title="javascript 7 Skills"
           views="2.5m"
           timestamp="6 months ago"
           channelImage="./nature1.jpg"
           channel="dixv Chann"
-          image="./video9.jpg"
+          image="https://i.ytimg.com/vi/Pht0qCHsKbA/hqdefault.jpg"
         />
         <VideoCard
-          title="$100K/yr Roadmap"
+          title="Smile Detection in PYTHON"
           views="1.8m"
           timestamp="1 year ago"
           channelImage="./nature1.jpg"
           channel="dixv Chann"
-          image="./video10.jpg"
+          image="https://i.ytimg.com/vi/uLY5JSE5WAU/hqdefault.jpg"
         />
       </div>
     </div>
